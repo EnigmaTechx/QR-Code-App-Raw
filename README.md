@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EnigmaTechx/QR-Code-App-Raw.git)
-- Live Site URL: [Add live site URL here](https://qr-code-app-raw.vercel.app/)
+- Solution URL: [Link To Solution](https://www.frontendmentor.io/solutions/qr-code-component-KQMqzd9gtn)
+- Live Site URL: [QR_Code_Challenge](https://qr-code-app-raw.vercel.app/)
 
 ## My process
 
