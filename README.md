@@ -56,8 +56,10 @@ I'm particularly proud of this CSS code snippet that enabled me to place the car
 ```
 
 ### Continued development
-
-Using raw CSS build deeper understanding and makes it easier to manipulate HTML without using frameworks and templates. I will continue taking on more challenges that involve using CSS to sharpen my knowledge and skills
+Fromm feedback I received on my first submission, I have learned important rules such as:
+-img tags should have an alt text
+-web pages should have main landmarks e.g. using ```<main>``` instead of ```<div>``` to identify the main content of a page
+-web pages should have a level-one heading i.e., ```<h1>```
 
 ## Author
 
